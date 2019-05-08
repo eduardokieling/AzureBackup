@@ -1,7 +1,7 @@
 ##########################################################################################
 #
 # .Description
-#   Script used for deploy a defalult Recovery Service Vault and create a default policy
+#   Script used for deploy a default Recovery Service Vault and create a default policy
 #
 ##########################################################################################
 # .Author:  Eduardo Kieling
